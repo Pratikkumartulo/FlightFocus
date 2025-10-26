@@ -3,6 +3,7 @@
 **Flight Focus** is a realistic and interactive flight experience simulator built using **React**, **Vite**, and **Tailwind CSS**.  
 It allows users to explore all airports across the world, choose a flight route, select seats, set personal tasks, and watch a live airplane animation moving from source to destination.
 
+Live link at - https://flight-focus.vercel.app/
 ---
 
 ## 🚀 Features
